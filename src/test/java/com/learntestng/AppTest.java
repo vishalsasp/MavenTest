@@ -25,6 +25,7 @@ public class AppTest
     @Test
     public void sendMail(){
     	System.out.println("*********App Test22***********");
+    	System.out.println("*********App Test33***********");
     	
     }
 }
