@@ -9,6 +9,7 @@ public class SampleTest {
     	System.out.println("*********sample Test***********");
     	System.out.println("*********sample Test1132***********");
     	System.out.println("*********sample Test2***********");
+    	System.out.println("*********sample Tett2***********");
     }
 }
 
